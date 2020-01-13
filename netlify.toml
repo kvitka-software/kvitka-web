@@ -1,7 +1,7 @@
 # Global settings applied to the whole site.
 [build]
   command = "hugo"
-  publish = "public"
+  publish = "docs"
 
 # Build a preview of the site (Drafts and Future dates also) 
 #   Un-comment next two lines.
