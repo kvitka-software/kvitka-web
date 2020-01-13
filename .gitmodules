@@ -6,4 +6,4 @@
 	url = https://github.com/miguelsimoni/hugo-initio.git
 [submodule "themes/initio"]
 	path = themes/initio
-	url = git@github.com:kvitka-software/hugo-initio.git
+	url = https://github.com/kvitka-software/hugo-initio.git
