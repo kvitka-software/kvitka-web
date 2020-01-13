@@ -2,7 +2,6 @@ baseURL = "https://kvitka.software/"
 languageCode = "en-us"
 title = "Kvitka Software"
 theme = "initio"
-publishDir = "docs"
 
 [params]
     name = "Kvitka Software"
