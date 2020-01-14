@@ -1,18 +1,17 @@
 +++
 menu = "main"
-title = "About"
+title = "About Kvitka"
 type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
 
-![about](../images/mac.jpg)
+Kvitka is a company founded in October 2019. Its mission is to deliver software with high quality in a world where a lot of "monkeys with typewriters" are producing unreliable, unmaintainable software because they haven't mastered the craftsmanship that is programming.
 
-### Necessitatibus
+At Kvitka we take pride in good taste, correctness, readability, maintainability and all the other properties of quality code.
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+### The Kvitka name
 
-### Fugit, laboriosam
+"Kvitka" is a Ukrainian word and means "flower". Why that name, you ask? Who doesn't like a flower? :)
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+"Kvitka" is also a classic [song](https://www.youtube.com/watch?v=v8fGSmP3D38) by the popular Ukrainian rock band [Океан Ельзи](https://en.wikipedia.org/wiki/Okean_Elzy).

@@ -5,35 +5,37 @@ theme = "initio"
 
 [params]
     name = "Kvitka Software"
-    description = "Code with Quality"
+    description = ""
     email = "kvitka-software@bakksjo.no"
     phone = "+47 92283522"
     address = ""
+    orgid = "923354425"
     year = 2020
     background = ""
     banner = "images/sunflower.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "2006-01-02"
+    subheader = "When code quality matters. Which it always does."
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
-    showDownload = true
-    showClients = true
+    showRecentWorks = false
+    showDownload = false
+    showClients = false
 
     footerEnableContact = true
-    footerEnableFollowme = true
+    footerEnableFollowme = false
     footerEnableTextWidget = true
-    footerEnableFormWidget = true
+    footerEnableFormWidget = false
 
 [[menu.main]]
     name = "home"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "blog"
-    url = "/post/"
-    weight = 5
+# [[menu.main]]
+#     name = "blog"
+#     url = "/post/"
+#     weight = 5
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
@@ -47,7 +49,7 @@ theme = "initio"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/bakksjo"
+	url = "https://facebook.com/bakksjo"
     icon = "fa-facebook-square"
     footer = true
     sharethis = true
