@@ -21,7 +21,7 @@ unlisted = true
 
 He is happy when he can focus, and doesn't mind diving deeply into "impenetrable" tasks. Excessive task switching, though, is not his greatest strength.
 
-He has impeccable work ethics and will not be late to appointments or try to get more than his fair share. He bellieves strongly in giving praise to those who deserve it, and comfortable sharing knowledge to the point that he is fully replaceable.
+He has impeccable work ethics and will not be late to appointments or try to get more than his fair share. He believes strongly in giving praise to those who deserve it, and is comfortable sharing knowledge to the point that he is fully replaceable.
 
 Øyvind is not an introvert, but he has a bit of phone shyness and could therefore never work as a salesperson. He is comfortable standing on a stage and presenting to an audience, though.
 
