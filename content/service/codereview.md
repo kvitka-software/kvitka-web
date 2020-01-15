@@ -1,9 +1,9 @@
 +++
-title = "Code review"
+title = "Code Audit"
 weight = 1
 +++
 
-We measure code quality. Whether you need improvements in your product or a full-blown pre-acquisition due diligence process – our services give you full insight into the quality of a codebase and the abilities of a technical team.
+We measure code quality. Whether you need a full-blown pre-acquisition due diligence process, or just want to improve your product – our services give you full insight into the quality of a codebase and the abilities of a technical team.
 
 <!--more-->
 
