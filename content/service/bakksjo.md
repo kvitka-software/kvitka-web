@@ -15,7 +15,7 @@ unlisted = true
 - Utilizing the type safety of statically typed languages to eliminate impossible states
 - Clean logging - architecting servers that are silent in steady state, but when they *do* log, you get all the information you need to act on it
 - Working remotely and managing remote teams
-- In addition to Norwegian and English, I also speak fluent conversational Russian
+- Speaks and writes fluent conversational Russian, in addition to excellent English
 
 ## Personal qualities
 
