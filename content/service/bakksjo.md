@@ -12,7 +12,8 @@ detail and good taste. He is a Java expert and fluent in languages
 such as Scala, Go, and Elm. Øyvind's core experience is backend
 development, but he has also worked on some frontend projects.
 
-> One of the most skillful software developers I have worked with.
+> «One of the most skillful software developers I have worked with.»
+>
 > – Lars Jølsum, Tribe Architect at Sportradar
 
 ## Specialities

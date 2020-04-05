@@ -20,8 +20,8 @@ Last updated: 2020-04-05
 
 #### [Øyvind Bakksjø]({{< ref "bakksjo.md" >}}) - former CTO and Google Engineer
 
-> Øyvind quickly stood up as a great developer, as well as a mentor
-> for the more junior members of the team.
+> «Øyvind quickly stood up as a great developer, as well as a mentor for the more junior members of the team.»
+>
 > – Lars Jølsum, Tribe Architect at Sportradar
 
 # Clients
