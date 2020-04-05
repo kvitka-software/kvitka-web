@@ -15,7 +15,7 @@ theme = "initio"
     banner = "images/sunflower.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "2006-01-02"
-    subheader = "When code quality matters. Which it always does."
+    subheader = "When quality matters. Which is always."
 
     showSubheader = true
     showServices = true
