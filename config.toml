@@ -6,7 +6,7 @@ theme = "initio"
 [params]
     name = "Kvitka Software"
     description = ""
-    email = "kvitka-software@bakksjo.no"
+    email = "info@kvitka.software"
     phone = "+47 92283522"
     address = ""
     orgid = "923354425"
@@ -98,7 +98,7 @@ theme = "initio"
 #     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:kvitka-software@bakksjo.no"
+	url = "mailto:info@kvitka.software"
     icon = "fa-envelope"
     footer = false
     sharethis = true
