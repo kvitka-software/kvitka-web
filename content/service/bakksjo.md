@@ -20,7 +20,7 @@ development, but he has also worked on some frontend projects.
 
 - Proper error handling; dealing with *all* code paths, not just the Happy Path
 - Concurrency and parallellism
-- Distributed systems, scalability, high availability fault tolerance
+- Distributed systems, scalability, high availability, fault tolerance
 - Async and reactive processing
 - Utilizing the type safety of statically typed languages to eliminate bugs and impossible states
 - Testing strategies for high-coverage, low-maintenance tests
